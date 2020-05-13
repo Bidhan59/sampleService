@@ -1,0 +1,18 @@
+{
+  "name": "sample-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bidhan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "is-there": "^4.5.0",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.13"
+  }
+}
